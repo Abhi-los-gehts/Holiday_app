@@ -5,6 +5,18 @@
     list-style: none;
 }
 
+.bg-base-100 {
+    background-color: black
+}
+
+a{
+    color: yellow;
+}
+.text-col{
+    color: yellow;
+}
+
+
 body {
     width: 100vw;
     height: 100vh;
@@ -47,6 +59,3 @@ padding: 40px;
 .footer , .items-center , .text-center{
     text-align: center;
 }
-
-
-
