@@ -4,3 +4,17 @@
     box-sizing: border-box;
     list-style: none;
 }
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: azure; 
+}
+
+
+.card{
+    height: 250px;
+    width: 40%;
+}
+
+
