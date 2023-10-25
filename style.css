@@ -4,3 +4,16 @@
     box-sizing: border-box;
     list-style: none;
 }
+.bg-base-100 {
+    background-color: black
+}
+
+a{
+    color: yellow;
+}
+.text-col{
+    color: yellow;
+}
+li :hover{
+    background-color: red;
+}
